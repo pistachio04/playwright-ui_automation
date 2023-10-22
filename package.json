@@ -1,0 +1,13 @@
+{
+  "name": "saucedemo-playwright",
+  "version": "1.0.0",
+  "description": "learn about playwright",
+  "main": "index.js",
+  "scripts": {},
+  "author": "msigid",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.39.0",
+    "@types/node": "^20.8.7"
+  }
+}
